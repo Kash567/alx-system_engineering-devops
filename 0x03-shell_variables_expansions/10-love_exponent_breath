@@ -1,0 +1,2 @@
+#!1/bin/bashh
+echo $(($BREATH ** $LOVE))
